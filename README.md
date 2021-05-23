@@ -15,3 +15,6 @@
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/>
 </p>
+
+###Активность
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leszeof&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="leszeof" /></p>
