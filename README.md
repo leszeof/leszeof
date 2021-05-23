@@ -1,4 +1,4 @@
-<h2 align="left">Здравству!</h2>
+<h2 align="left">Здравствуйте!</h2>
 <h3 align="left">Меня зовут Никита Волхонский, я веб-разработчик.</h3>
 
 Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало.
@@ -32,7 +32,5 @@
 <h3>Активность</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leszeof&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="leszeof" />
-
-<img align="center" src="https://camo.githubusercontent.com/746a47c668877ff78381c098b56e632c7663e44f8153c804a6d315360bb5dfc7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65737a656f662673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="leszeof" data-canonical-src="https://github-readme-stats.vercel.app/api?username=leszeof&amp;show_icons=true&amp;locale=en" style="max-width:100%;">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leszeof&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=e63737&style=flat" alt="leszeof" /> </p>
