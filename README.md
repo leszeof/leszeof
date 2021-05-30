@@ -1,33 +1,33 @@
 <h2 align="left">Здравствуйте!</h2>
-<h3 align="left">Меня зовут Никита Волхонский, я веб-разработчик.</h3>
+<h3 align="left">Меня зовут Никита, я веб-разработчик.</h3>
 
 Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало.
 
 ### Обо мне:
 - заканчиваю обучение в [Яндекс.Практикум](https://praktikum.yandex.ru/web);
-- довожу начатое до конца и не боюсь сложностей - это делает меня надежным членом команды;
+- довожу начатое до конца и не боюсь сложных задач;
 - получаю настоящее удовольствие от обучения и развития - это позволяет мне не выгорать;
-- люблю изучать новые технологии;
+- люблю изучать новые технологии и расширять свои компетенции;
+- всегда открыт к новым контактам;
 
 
-<h3 align="left">Технологии:</h3>
+<h3 align="left">Компетенции:</h3>
 <p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60" title="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" title="html5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" title="css3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" title="sass"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" title="javascript"/>
 </p>
 <p>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="60" title="react" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" alt="react" width="80" height="60" style="margin-left:-15px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="60" title="react" title="react"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" alt="react" width="80" height="60" style="margin-left:-15px" title="node js"/>
   <img style="margin-left:-10px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60" title="babel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/webpack/webpack-original.svg" width="60" height="60" title="Webpack">
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" width="70" height="70" title="БЭМ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original-wordmark.svg" width="70" height="70" title="git">
 </p>
-<span style="font-style:italic">figma, photoshop, html, css, sass, js, react, node js, webpack, BEM, git</span>
 
 <h3>Активность</h3>
 <p>
