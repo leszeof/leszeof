@@ -48,7 +48,7 @@
 <a href="mailto:n.volkhonskiy@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60px" alt="gmail contact" height="60px">
 </a>
-<a href="mailto:n.volkhonskiy@gmail.com">
+<a href="https://t.me/zachem05">
    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram contact" width="60px" height="60px">
 </a>
 
