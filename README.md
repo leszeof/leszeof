@@ -1,16 +1,17 @@
 ## Здравствуйте:
-### Меня зовут Никита, я веб-разработчик.:
+### Меня зовут Никита, я веб-разработчик.
 
-Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало.
+Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало. А так же приносит удовольствие и позволяет решать нетривиальные задачи.
 
 ### Обо мне:
 - заканчиваю обучение в [Яндекс.Практикум](https://praktikum.yandex.ru/web);
+- член команды финалистов по разработке сайта "Big Brothers Bit Sisters" для одноименной НКО/благотворительного фонда 
 - довожу начатое до конца и не боюсь сложных задач;
 - получаю настоящее удовольствие от обучения и развития - это позволяет мне не выгорать;
 - люблю изучать новые технологии и расширять свои компетенции;
 - всегда открыт к новым контактам;
 
-## Skills:
+## Мои навыки:
 ### Front-end:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" title="html5"/>
@@ -18,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70" title="sass"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" title="javascript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" title="react" title="react"/>
-  <img style="margin-left:-10px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="70" height="70" title="babel" />
 </p>
 
 ### Back-end:
@@ -38,13 +38,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="postman" title="postman">
 </p>
   
-### In progress:
+### В процессе изучения:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="70" alt="Redux" title="Redux">
 </p>
 
-## Контакты:
+## Мои контакты:
 <a href="mailto:n.volkhonskiy@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60px" alt="gmail contact" height="60px">
 </a>
