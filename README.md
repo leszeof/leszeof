@@ -36,14 +36,14 @@
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" width="70" height="70" alt="БЭМ" title="БЭМ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="70" height="70" alt="git" title="git">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="postman" title="postman">
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="70" height="70" alt="jira" title="jira">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="70" height="70" alt="jira" title="jira">
 </p>
   
 ### В процессе изучения:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="70" alt="Redux" title="Redux">
-  <img src="https://graphql.org/img/logo.svg" width="70" height="70" alt="Graph Ql" title="Graph Ql">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="70" height="70" alt="Graph Ql" title="Graph Ql">
 </p>
 
 ## Мои контакты:
