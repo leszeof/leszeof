@@ -4,12 +4,12 @@
 Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало. А так же приносит удовольствие и позволяет решать нетривиальные задачи.
 
 ### Обо мне:
-- заканчиваю обучение в [Яндекс.Практикум](https://praktikum.yandex.ru/web);
-- член команды финалистов по разработке сайта "Big Brothers Big Sisters" для одноименной благотворительной НКО 
+- закончил обучение в [Яндекс.Практикум](https://praktikum.yandex.ru/web);
+- реальный проект: член команды финалистов по разработке сайта "Big Brothers Big Sisters" для одноименной благотворительной НКО 
 - довожу начатое до конца и не боюсь сложных задач;
-- получаю настоящее удовольствие от обучения и развития - это позволяет мне не выгорать;
-- люблю изучать новые технологии и расширять свои компетенции;
-- всегда открыт к новым контактам;
+- получаю удовольствие от обучения и развития - это позволяет мне не выгорать и сохранять интерес;
+- люблю изучать новые технологии и расширять свои компетенции в hard и soft направлениях;
+- открыт к новым контактам;
 
 ## Мои навыки:
 ### Front-end:
@@ -36,20 +36,22 @@
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" width="70" height="70" alt="БЭМ" title="БЭМ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="70" height="70" alt="git" title="git">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="postman" title="postman">
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="70" height="70" alt="jira" title="jira">
 </p>
   
 ### В процессе изучения:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="70" alt="Redux" title="Redux">
+  <img src="https://graphql.org/img/logo.svg" width="70" height="70" alt="Graph Ql" title="Graph Ql">
 </p>
 
 ## Мои контакты:
 <a href="mailto:n.volkhonskiy@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60px" alt="gmail contact" height="60px">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60px" height="60px" alt="my gmail contact">
 </a>
 <a href="https://t.me/zachem05">
-   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram contact" width="60px" height="60px">
+   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="60px" height="60px" alt="my telegram contact">
 </a>
 
 ## Активность:
