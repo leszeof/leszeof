@@ -48,10 +48,10 @@
 
 ## Мои контакты:
 <a href="mailto:n.volkhonskiy@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60px" height="60px" alt="my gmail contact">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60px" height="60px" alt="my gmail contact">
 </a>
 <a href="https://t.me/zachem05">
-   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="60px" height="60px" alt="my telegram contact">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="60px" height="60px" alt="my telegram contact">
 </a>
 
 ## Активность:
