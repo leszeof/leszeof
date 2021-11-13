@@ -44,7 +44,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="70" alt="Redux" title="Redux">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="70" height="70" alt="Graph Ql" title="Graph Ql">
+  <img src="https://testing-library.com/img/octopus-64x64.png" width="70" height="70" alt="React testing-library" title="React testing-library">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" width="70" height="70" alt="jest" title="jest">
 </p>
+
+https://cdn.worldvectorlogo.com/logos/redux-saga.svg
 
 ## Мои контакты:
 <a href="mailto:n.volkhonskiy@gmail.com">
