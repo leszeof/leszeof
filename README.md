@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" title="html5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" title="css3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70" title="sass"/>
-  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/less.dark.svg" alt="less" width="70" height="70" title="less"/>
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/less.dark.svg" alt="less" width="70" height="70" title="less"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" title="javascript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" title="react" title="react"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
@@ -46,8 +46,8 @@
 
 ### Code style:
 <p>
-  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/eslint.dark.svg" alt="ESlint" width="70" height="70" title="ESlint"/>
-  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/prettier.svg" alt="prettier" width="70" height="70" title="prettier"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESlint" width="70" height="70" title="ESlint"/>
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/prettier.svg" alt="prettier" width="70" height="70" title="prettier"/>
 </p>
 
 ### Testing:
@@ -60,7 +60,7 @@
 <a href="mailto:n.volkhonskiy@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60px" height="60px" alt="gmail contact">
 </a>
-<a href="https://t.me/hard_lunch">
+<a href="https://t.me/n1kokos">
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="60px" height="60px" alt="telegram contact">
 </a>
 <a href="https://linkedin.com/in/nikita-volkhonskiy">
