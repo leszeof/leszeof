@@ -1,11 +1,10 @@
 ## Здравствуйте:
 ### Меня зовут Никита, я веб-разработчик.
 
-Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало. А так же приносит удовольствие и позволяет решать нетривиальные задачи. Так же это отличный способ сделать что-то полезное.
+Веб-разработка привлекла меня тем, что дает возможность совмещать техническое и творческое начало. Кроме того это приносит мне удовольствие и позволяет решать нетривиальные задачи. 
 
 ### Обо мне:
-- закончил курсы профессиональной переподготовки в [Яндекс.Практикум](https://praktikum.yandex.ru/web);
-- участник команды для разработки сайта "Big Brothers Big Sisters" для одноименной благотворительной НКО сайт: [BBBS nastavniki](http://nastavnikipro.ru/)
+- участник команды для разработки сайта "Big Brothers Big Sisters" для одноименной благотворительной НКО: [BBBS nastavniki](http://nastavnikipro.ru/)
 - довожу начатое до конца и не боюсь сложных задач;
 - получаю удовольствие от обучения и развития - это позволяет мне не выгорать и сохранять интерес к тому, что я делаю;
 - люблю изучать новые технологии и расширять свои компетенции в hard и soft направлениях;
@@ -14,12 +13,12 @@
 ## Мои навыки:
 ### Front-end:
 <p> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" title="html5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" title="css3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70" title="sass"/>
-  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/less.dark.svg" alt="less" width="70" height="70" title="less"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" title="javascript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" title="react" title="react"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70" title="SASS/SCSS"/>
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/less.dark.svg" alt="less" width="70" height="70" title="LESS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" title="Javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" title="react" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="70" height="70" alt="TypeScript" title="TypeScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="70" alt="Redux" title="Redux">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="80" height="80" alt="Next JS" title="Redux">
@@ -27,33 +26,34 @@
 
 ### Back-end:
 <p>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node js" width="70" height="70" style="margin-left:-15px" title="node js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" height="70" alt="express js" title="express">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="70" height="70" alt="Graph Ql" title="Graph Ql">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node js" width="70" height="70" style="margin-left:-15px" title="Node js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" height="70" alt="Express js" title="Express">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="70" height="70" alt="Graph QL" title="Graph QL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" alt="MongoDB" title="MongoDB"/>
 </p>
 
 ### Tools:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="70" height="70" title="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="70" height="70" alt="Photoshop" title="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="70" height="70" alt="Figma" title="Figma"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="70" height="70" alt="Webpack" title="Webpack">
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" width="70" height="70" alt="БЭМ" title="БЭМ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="70" height="70" alt="git" title="git">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="postman" title="postman">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="70" height="70" alt="jira" title="jira">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="Postman" title="Postman">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="70" height="70" alt="Jira" title="Jira">
 </p>
 
 ### Code style:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESlint" width="70" height="70" title="ESlint"/>
-  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/prettier.svg" alt="prettier" width="70" height="70" title="prettier"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="70" height="70" title="ESLint"/>
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/prettier.svg" alt="Prettier" width="70" height="70" title="Prettier"/>
 </p>
 
 ### Testing:
 <p>
   <img src="https://testing-library.com/img/octopus-64x64.png" width="70" height="70" alt="React testing-library" title="React testing-library">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" width="70" height="70" alt="jest" title="jest">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" width="70" height="70" alt="Jest" title="Jest">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="70" height="70" alt="Storybook" title="Storybook" />
 </p>
 
 ## Мои контакты:
